@@ -1,0 +1,12 @@
+{
+	"name": "Hugo Static Site Generator",
+	"dockerFile": "Dockerfile",
+	"appPort": 1313,
+	"extensions": ["streetsidesoftware.code-spell-checker"],
+	"settings": {
+		"files.exclude": {
+			"**/resources": true
+		}
+	},
+	"runArgs": [ "-u", "vscode" ]
+}
