@@ -2,6 +2,7 @@ baseURL = "http://42.marvtherobot.com/"
 languageCode = "en-gb"
 title = "Limited Knowledge"
 theme = "book"
+publishDir = "public"
 
 # Book configuration
 disablePathToLower = true
