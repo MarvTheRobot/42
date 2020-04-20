@@ -1,4 +1,4 @@
-baseURL = "http://42.marvtherobot.com/"
+baseURL = "https://marvtherobot.github.io/reference/"
 languageCode = "en-gb"
 title = "Limited Knowledge"
 theme = "book"
