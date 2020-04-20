@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Limited Knowledge</title>
-    <link>http://42.marvtherobot.com/docs/example/collapsed/</link>
+    <link>https://marvtherobot.github.io/reference/docs/example/collapsed/</link>
     <description>Recent content on Limited Knowledge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="http://42.marvtherobot.com/docs/example/collapsed/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://marvtherobot.github.io/reference/docs/example/collapsed/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
