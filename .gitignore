@@ -3,3 +3,6 @@
 
 #goHugo
 public
+
+# why is the resources folder being generated here?
+resources
