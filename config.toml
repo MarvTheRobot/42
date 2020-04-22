@@ -6,7 +6,7 @@ publishDir = "public"
 
 # Book configuration
 disablePathToLower = true
-enableGitInfo = false
+enableGitInfo = true
 
 # Needed for mermaid/katex shortcodes
 [markup]
@@ -30,13 +30,17 @@ enableGitInfo = false
 # [[menu.before]]
 
 [[menu.after]]
-  name = "Main Blog"
+  name = "Blog"
   url = "https://marvtherobot.com"
   weight = 10
 [[menu.after]]
+  name = "Azure DevOps"
+  url = "https://dev.azure.com/marvtherobot"
+  weight = 20
+[[menu.after]]
   name = "Github"
   url = "https://github.com/marvtherobot"
-  weight = 20
+  weight = 30
 
 
 [params]

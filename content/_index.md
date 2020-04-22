@@ -6,27 +6,24 @@ type: docs
 # Acerbo datus maxime
 
 {{< columns >}}
-## Astris ipse furtiva
+## Column Left
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+Some text in the left hand
 
 <--->
 
-## Suis quot vota
+## Column Right
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
+End of text, end of columns
+
 {{< /columns >}}
 
 
-## Tempora nisi nunc
+## Third heading
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+Even more text, and some code to follow
+
+```javascript
 
     var panel = ram_design;
     if (backup + system) {
@@ -36,6 +33,8 @@ sequens!
                 graphicsNvramCdma, lpi_footer_snmp, integer_model));
     }
 
-## Locis suis novi cum suoque decidit eadem
+```
 
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+## Level 2 heading
+
+Meh?
