@@ -134,3 +134,13 @@ git config --global alias.push-with-lease 'push --force-with-lease'
 ```
 
 `git push-with-lease` will now do the same thing with a few less keystrokes.
+
+## Submodules
+
+Update to the latest release
+
+`git submodule update --remote --merge`
+
+Restore on another machine
+
+`git submodule update --init --recursive`
